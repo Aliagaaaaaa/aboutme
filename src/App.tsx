@@ -8,8 +8,6 @@ const profileDescription = [
 ];
 
 const socialLinks = [
-  { url: 'https://x.com/aliaga1337', network: 'x' },
-  { url: 'https://instagram.com/maliag4_', network: 'instagram' },
   { url: 'https://www.linkedin.com/in/martin-aliaga', network: 'linkedin' },
   { url: 'https://github.com/aliagaaaaaa', network: 'github' }
 ];
